@@ -25,7 +25,7 @@ Proyecto realizado por **[Rocio Ivoone Perez Gonzalez]** como práctica del reto
 ## 🖼️ Capturas
 
 **Pantalla principal**
-![Pantalla principal](assets/pagina-principal.png)
+![Pantalla principal](assets/página-principal.png)
 
 ### Amigos agregados
 ![Amigos agregados](assets/amigos-agregados.png)
@@ -52,4 +52,5 @@ Proyecto realizado por **[Rocio Ivoone Perez Gonzalez]** como práctica del reto
 - Guardar la lista en el navegador usando LocalStorage.
 - Añadir opción para eliminar un nombre.
 - Agregar animaciones al sorteo.
+
 
